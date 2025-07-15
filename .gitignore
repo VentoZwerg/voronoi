@@ -1,0 +1,8 @@
+python/build
+python/venv
+python/dist
+python/voronoi_diagram.spec
+
+electron/dist
+electron/node_modules
+electron/package-lock.json
