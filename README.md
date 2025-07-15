@@ -5,6 +5,7 @@ This project generates an interactive 2D colored Voronoi diagram with random poi
 ## Implementations
 - Browse the repo subdirectories for different implementations (Python, JavasScript, Electron), all on Linux, Windows and macOS.
 - Refer to the README.md within for specific build/run instructions.
+- Easy starting point: Check out the `browser` directory.
 
 ## Acknowledgments
 - Inspired by computational geometry, art, and interactive visualization techniques.
